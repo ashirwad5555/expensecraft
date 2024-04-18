@@ -1,0 +1,6 @@
+Total Expense: Rs. 8988.00
+Food: Rs. 100.00
+Transportation: Rs. 0.00
+Shopping: Rs. 0.00
+Utilities: Rs. 0.00
+Entertainment: Rs. 8888.00
